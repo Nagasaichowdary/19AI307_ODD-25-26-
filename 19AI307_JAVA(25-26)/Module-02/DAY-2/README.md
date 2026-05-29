@@ -1,3 +1,6 @@
+## Program to implement a Variable scope and Constructor using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
 # Ex.No:2(B) METHODS
 
 ## QUESTION:
@@ -20,18 +23,6 @@ To write a Java program that defines a method cube(int x) which internally calls
 
 5. End the program.
 
-
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Methods using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
 
 ## SOURCE CODE:
 ```
