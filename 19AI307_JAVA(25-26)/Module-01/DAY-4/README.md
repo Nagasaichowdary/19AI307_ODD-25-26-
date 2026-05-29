@@ -1,3 +1,6 @@
+## Program to implement a Array concept using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
 # Ex.No:1(D) ARRAYS
 
 ## QUESTION:
@@ -21,18 +24,6 @@ To write a Java program that reads an array of integers and finds the index of a
 
 6.End the program.	
 
-
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Array concept using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
 
 ## SOURCE CODE:
 ```
