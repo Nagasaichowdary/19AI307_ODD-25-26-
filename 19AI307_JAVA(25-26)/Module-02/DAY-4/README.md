@@ -1,3 +1,6 @@
+## Program to implement a Variable scope and Constructor using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
 # Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
 ## QUESTION:
@@ -28,16 +31,6 @@ To write a Java program that initializes object variables using a constructor an
 
 6. End the program.
 
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Variable scope and Constructor using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
 
 ## SOURCE CODE:
 
