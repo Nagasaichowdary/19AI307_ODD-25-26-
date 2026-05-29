@@ -1,3 +1,7 @@
+## Program to implement a Variable scope and Constructor using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
+
 # Ex.No:2(A) CLASS AND OBJECT
 
 ## QUESTION:
@@ -26,14 +30,6 @@ To define a class Car with attributes brand, color, and year; create two objects
 7.Close the scanner and end the program.
 
 
-## PROGRAM:
- ```
-/*
-Program to implement a Class and Objects using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
 
 ## SOURCE CODE:
 ```
