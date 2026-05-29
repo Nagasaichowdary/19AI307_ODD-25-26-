@@ -1,4 +1,4 @@
-## Program to implement a Variable scope and Constructor using Java
+## Program to implement a Class and Objects using Java
 ## Developed by: POPURI ADITYA NAGA SAI
 ## Register Number:212223110036
 
