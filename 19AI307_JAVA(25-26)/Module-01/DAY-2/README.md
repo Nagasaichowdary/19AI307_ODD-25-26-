@@ -1,3 +1,7 @@
+## Program to implement a conditional statement using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
+
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
