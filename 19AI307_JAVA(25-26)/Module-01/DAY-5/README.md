@@ -1,3 +1,7 @@
+## Program to implement a Strings and Math Function using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
+
 # Ex.No:1(E) STRINGS AND MATH FUNCTION
 
 ## QUESTION:
@@ -16,18 +20,6 @@ To write a Java program that finds the absolute value of a given number using th
 4.Display the calculated absolute value.
 
 5.End the program.
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Strings and Math Function using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
-
 
 ## SOURCE CODE:
 ```
