@@ -1,4 +1,4 @@
-## Program to implement a Variable scope and Constructor using Java
+## Program to implement variables and Operators using Java
 ## Developed by: POPURI ADITYA NAGA SAI
 ## Register Number:212223110036
 # Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
