@@ -1,3 +1,7 @@
+## Program to implement a Variable scope and Constructor using Java
+## Developed by: POPURI ADITYA NAGA SAI
+## Register Number:212223110036
+
 # Ex.No:2(C) ACCESS SPECIFIERS
 
 ## QUESTION:
@@ -31,17 +35,6 @@ To write a Java program that defines a class BankAccount with private attributes
 9. Close the Scanner and end the program.
 
 
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Access Specifiers using Java
-Developed by: POPURI ADITYA NAGA SAI
-Register Number:212223110036
-*/
-```
 
 ## SOURCE CODE:
 ```
